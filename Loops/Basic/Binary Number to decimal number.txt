@@ -5,5 +5,5 @@ Refer to the question given above.
 #Function:
 int binary_to_decimal(char str[])
 {
-	// Code here.
+	bin(x)
 }
